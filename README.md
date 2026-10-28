@@ -21,6 +21,6 @@ Software Developer specializing in **AI Platform Engineering**, **Model Context 
 ---
 
 ### 📬 Connect
-- **LinkedIn:** [linkedin.com/in/adarshkp0007](https://www.linkedin.com/in/adarshkp0007/)[cite: 2]
-- **GitHub:** [github.com/Adarsh-KP-0007](https://github.com/Adarsh-KP-0007)[cite: 2]
-- **Email:** [adarshnambiar0007@gmail.com](mailto:adarshnambiar0007@gmail.com)[cite: 2]
+- **LinkedIn:** [linkedin.com/in/adarshkp0007](https://www.linkedin.com/in/adarshkp0007/)
+- **GitHub:** [github.com/Adarsh-KP-0007](https://github.com/Adarsh-KP-0007)
+- **Email:** [adarshnambiar0007@gmail.com](mailto:adarshnambiar0007@gmail.com)
